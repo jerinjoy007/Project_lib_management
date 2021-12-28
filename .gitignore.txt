@@ -1,4 +1,0 @@
-*.exe
-*.bak
-*.rar
-*.zip
